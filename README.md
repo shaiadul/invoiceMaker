@@ -1,4 +1,3 @@
-## Invoice maker coming soon
-
+## Invoice maker
 
 
